@@ -2,7 +2,7 @@
 
 Some notebooks created to study the epidemiological situation of the coronavirus in Sweden.
 
-# Dataset
+## Dataset
 
 Was used two datasets, one that had data from the various Swedish regions and another with numbers
 referring to some countries.
@@ -28,3 +28,15 @@ In this project, different Jupyter notebooks were developed:
 [Forecasting models (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Previsoes_modelos.ipynb)
 
 [Comparation with other Nordic Countries (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Comparacao_paises_nordicos.ipynb)
+
+## Mapping
+
+
+### Number of cases in Sweden
+
+This map represent the distribution of number of cases for each region 
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_casos)
+
+
+
