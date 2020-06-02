@@ -1,2 +1,1 @@
-Study of Covid-19 in Italy
-Throughout this project, some notebooks were developed in order to study, through different parameters, the epidemiological situation of the coronavirus in Italy, the European country most affected by the virus.
+Study of Covid-19 in Sweden
