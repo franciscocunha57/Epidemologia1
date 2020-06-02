@@ -11,4 +11,20 @@ Dataset with swedish regions : [Dataset Sweden](https://github.com/franciscocunh
 
 Dataset countries : [Dataset countries](hhttps://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/dados/owid-covid-data2.csv).
 
-Both data sets have undergone changes to aid analysis in relation to the originals.
+Both data sets have suffered changes to help analysis in relation to the originals.
+
+## Notebooks
+
+In this project, different Jupyter notebooks were developed:
+
+[Mapping covid-19 number of cases in Sweden (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/mapa_numero_casos.ipynb)
+
+[Mapping covid-19 number of deaths in Sweden (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Mapa_mortalidade.ipynb)
+
+[Mapping covid-19 number of patients in hospital in Sweden (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Mapa%20de%20dados%20de%20total%20de%20doentes%20em%20Hospital.ipynb)
+
+[Statistics from different regions and evolution of numbers in Sweden (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Gr%C3%A1ficos.ipynb)
+
+[Forecasting models (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Previsoes_modelos.ipynb)
+
+[Comparation with other Nordic Countries (.ipynb)](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Comparacao_paises_nordicos.ipynb)
