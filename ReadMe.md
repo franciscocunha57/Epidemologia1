@@ -57,11 +57,15 @@ This [notebook](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sw
 
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/grafico_barras_regiao.jpg)
 
+Percentage 
 
-Top five regions with more confirmed cases 
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/grafico_circular.jpg)
 
 
-![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/top5casos.jpg)
+Top five regions with more confirmed patiens in intensive care unit 
+
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/top5atICU.jpg)
 
 
 ### Gaussian Curve for New Cases
