@@ -80,9 +80,9 @@ Top five regions with more confirmed cases
 ## Comparation with other Nordic Countries
 
 Sweden-blue   
-Norway-orange
-Denmark-green
-Finland-red
+Norway-orange   
+Denmark-green   
+Finland-red   
 
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Comparacao_paises_cases_per_million.jpg)
 
