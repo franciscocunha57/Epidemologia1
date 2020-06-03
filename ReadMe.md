@@ -40,3 +40,21 @@ This map represent the distribution of number of cases for each region
 
 
 
+### Number of deaths in Sweden
+
+This map represent the distribution of number of cases for each region 
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_doentes_hospital)
+
+
+
+### Number of deaths in Sweden
+
+This map represent the distribution of number of cases for each region 
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_mortes)
+
+
+
+Nao esquecer de colocar a legenda no mapa de comparação
+
