@@ -65,6 +65,10 @@ Top five regions with more confirmed patiens in intensive care unit
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Curva_Gauss.jpg)
 
 
+### Total cases prevision for the next 30 days 
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/prevision_30days.jpg)
+
 
 ### Evolution of number of Tests in Sweden
 
