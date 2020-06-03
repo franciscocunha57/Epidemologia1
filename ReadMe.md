@@ -50,7 +50,7 @@ This map represent the distribution of number of cases for each region
 
 ## Statistical analysis
 
-This [notebook](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Gr%C3%A1ficos.ipynb)concerns some statistics about Sweden. 
+This [notebook](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Gr%C3%A1ficos.ipynb) concerns some statistics about Sweden. 
 
 ### Distribution of cases by Region
 
@@ -79,10 +79,10 @@ Top five regions with more confirmed cases
 
 ## Comparation with other Nordic Countries
 
-Sweden-blue
-Norway- orange
+Sweden-blue   
+Norway-orange
 Denmark-green
-Finland- red
+Finland-red
 
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Comparacao_paises_cases_per_million.jpg)
 
