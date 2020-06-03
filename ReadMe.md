@@ -9,7 +9,7 @@ referring to some countries.
 
 Dataset with swedish regions : [Dataset Sweden](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/dados/time_series_confimed-confirmed.csv).
 
-Dataset countries : [Dataset countries](hhttps://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/dados/owid-covid-data2.csv).
+Dataset countries : [Dataset countries](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/dados/owid-covid-data2.csv).
 
 Both data sets have suffered changes to help analysis in relation to the originals.
 
