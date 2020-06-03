@@ -60,10 +60,6 @@ Top five regions with more confirmed patiens in intensive care unit
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/top5atICU.jpg)
 
 
-### Gaussian Curve for New Cases
-
-![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Curva_Gauss.jpg)
-
 
 ### Total cases prevision for the next 30 days 
 
