@@ -44,17 +44,46 @@ This map represent the distribution of number of cases for each region
 
 This map represent the distribution of number of cases for each region 
 
-![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_doentes_hospital)
-
-
-
-### Number of deaths in Sweden
-
-This map represent the distribution of number of cases for each region 
-
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_mortes)
 
 
 
-Nao esquecer de colocar a legenda no mapa de comparação
+## Statistical analysis
+
+This [notebook](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Notebooks/Gr%C3%A1ficos.ipynb)concerns some statistics about Sweden. 
+
+### Distribution of cases by Region
+
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/grafico_barras_regiao.jpg)
+
+
+Top five regions with more confirmed cases 
+
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/top5casos.jpg)
+
+
+### Gaussian Curve for New Cases
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Curva_Gauss.jpg)
+
+
+
+### Evolution of number of Tests in Sweden
+
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/crescimento_tests.jpg)
+
+
+
+## Comparation with other Nordic Countries
+
+Sweden-blue
+Norway- orange
+Denmark-green
+Finland- red
+
+![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Comparacao_paises_cases_per_million.jpg)
+
 
