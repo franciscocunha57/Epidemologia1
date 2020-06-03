@@ -57,7 +57,7 @@ This [notebook](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sw
 
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/grafico_barras_regiao.jpg)
 
-Percentage 
+Percentage:
 
 ![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/grafico_circular.jpg)
 
