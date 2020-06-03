@@ -32,14 +32,6 @@ In this project, different Jupyter notebooks were developed:
 ## Mapping
 
 
-### Number of cases in Sweden
-
-This map represent the distribution of number of cases for each region 
-
-![case map](https://github.com/franciscocunha57/Epidemologia1/blob/master/Sweden/Images/Mapa_numero_casos)
-
-
-
 ### Number of deaths in Sweden
 
 This map represent the distribution of number of cases for each region 
